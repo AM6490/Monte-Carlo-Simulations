@@ -6,3 +6,7 @@ For a portfolio with an initial value of 100,000, we found that the expected por
 This is highly volatile, and many of the assets are definitely highly correlated hence this huge range, I'll probably first try to experiment with asset allocation to maximize return with a given level of risk. 
 
 But today's purposes I wanted to experiment with a basic form of optimization and risk analysis. 
+
+I also added a chart that shows the long vs. short positions with the allocation weights. 
+
+I chose these stocks at random, which in practice is obviously not the right way to go about choosing your stocks, you need to evaluate each stock as well as how it might be correlated with other stocks in the market. In short, you would need strategic asset allocation (SAA) to make sure that your std of the value of the portfolio in the simulations and in real life is not so huge (e.g., in the hundreds of thousands). 
